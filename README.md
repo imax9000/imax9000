@@ -1,5 +1,3 @@
-# imax
-
 Some AuDHD nerd on them internets.
 
 I've no idea what I'm working right now.
